@@ -1,0 +1,21 @@
+#LoginButtonDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+#LoginButton{
+    align-items: center;
+    margin-top: 20px;
+    border-radius: 10px; 
+    width: 100px;
+    margin-right: 10px;
+}
+#SignButton{
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    margin-left: 10px;
+    border-radius: 10px; 
+    width: 100px;
+}

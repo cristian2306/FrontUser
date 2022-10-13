@@ -1,0 +1,38 @@
+body{
+
+}
+#LoginDiv{
+    background-color: rgba(159, 159, 159, 0.418);
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 10px;
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+input{
+    background-color: #e5d1d1;
+    border: 1px solid rgb(194, 17, 17);
+    border-radius: 10px;
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+}
+#UserLogId{
+    padding: 10px;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
